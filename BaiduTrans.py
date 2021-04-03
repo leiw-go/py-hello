@@ -1,5 +1,7 @@
 #!/usr/bin/python3
 
+#运行这个程序会报错，如果想运行请把报错信息中的ip地址发给我
+
 import http.client
 import hashlib
 import urllib
